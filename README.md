@@ -16,7 +16,7 @@ Benefits :
 > </a>
 >
 > [Mustacchio](http://www.docuss.org) is a fake website demonstrating main
-> Discourse features.
+> Docuss features.
 
 ## Project Status
 
