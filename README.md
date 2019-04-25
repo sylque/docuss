@@ -15,8 +15,18 @@ Benefits :
 > <img src="https://sylque.github.io/dcs-client/demos/mustacchio/images/logo.jpg" alt="Mustacchio" width="120" />
 > </a>
 >
-> [Mustacchio](http://www.docuss.org) is a fake website demonstrating main
+> [Mustacchio](http://www.docuss.org) is a fake website demonstrating most
 > Docuss features.
+
+## Other demos
+
+> <a href="http://www.docuss.org/docuss/d_home">
+> <img src="https://sylque.github.io/discuss-the-web/public/logo.png" alt="Discuss The Web" width="130" />
+> </a>
+>
+> [Discuss The Web](http://www.docuss.org/docuss/d_home) is a sample
+> Meteor+React web app. See the repo
+> [here](https://github.com/sylque/discuss-the-web).
 
 ## Project Status
 
