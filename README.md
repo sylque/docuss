@@ -11,7 +11,7 @@ Benefits :
 
 ## Main Showcase
 
-> <a href="http://www.docuss.org" target="_blank" title="Click top open the demo in a new tab">
+> <a href="http://www.docuss.org" target="_blank" title="Click top open the demo">
 > <img src="https://sylque.github.io/dcs-client/demos/mustacchio/images/logo.jpg" alt="Mustacchio" width="130" />
 > </a>
 >
@@ -20,14 +20,14 @@ Benefits :
 
 ## Other demos
 
-> <a href="http://www.docuss.org/docuss/d_home" target="_blank" title="Click top open the demo in a new tab">
+> <a href="http://www.docuss.org/docuss/d_home" target="_blank" title="Click top open the demo">
 > <img src="https://sylque.github.io/discuss-the-web/public/logo.png" alt="Discuss The Web" width="130" />
 > </a>
 >
 > Sample Meteor+React web app. See the repo
 > [here](https://github.com/sylque/discuss-the-web).
 
-> <a href="http://www.docuss.org/docuss/openst" target="_blank" title="Click top open the demo in a new tab">
+> <a href="http://www.docuss.org/docuss/openst" target="_blank" title="Click top open the demo">
 > <img src="https://www.openstack.org/themes/openstack/images/openstack-logo-full.svg" alt="Discuss The Web" width="120" />
 > </a>
 >
