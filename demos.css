@@ -1,0 +1,73 @@
+/*******************************************************************************
+	Configuration for the "Custom Header Links" Discourse component
+*******************************************************************************/
+
+/*
+Theme Settings - Custom header links:
+------------------------------------
+ 
+Home, Back to the home page, /, vdo.mustacchio, self, keep
+ 
+Mission, Mission, /docuss/missio, vdo.mustacchio, self, keep
+ 
+About Me, About me, /docuss/aboutm, vdo.mustacchio, self, keep
+ 
+Last Event, Last Event, /docuss/lastev, vdo.mustacchio, self, keep
+ 
+White Paper, White paper, /docuss/whitep, vdo.mustacchio, self, keep
+ 
+Forum, Go to the discussion forum, /latest, vdm, self, keep
+*/
+
+/*******************************************************************************
+	Discourse settings
+*******************************************************************************/
+
+/*
+
+Prod:
+
+https://sylque.github.io/dcs-client/demos/mustacchio/dcs-website.json|https://sylque.github.io/dcs-client/demos/open-stack/dcs-website.json|http://dtw.docuss.org/dcs-website.json
+
+Dev:
+
+http://localhost:8080/demos/mustacchio/dcs-website.json|http://localhost:8080/demos/open-stack/dcs-website.json|http://localhost:3000/dcs-website.json
+
+*/
+
+/*******************************************************************************
+	Demo CSS
+*******************************************************************************/
+
+/***** Mustacchio *****/
+
+html:not(.dcs-website-mustacchio) .headerLink.mustacchio {
+  display: none;
+}
+
+html.dcs-website-mustacchio .headerLink a {
+  color: #252525;
+  font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+  font-size: 13px;
+  font-weight: 900; /* Needed on mobile where Arial is not found */
+  text-transform: uppercase;
+}
+
+html.dcs-website-mustacchio .d-header-icons .d-icon,
+html.dcs-website-mustacchio .d-header-icons .icon:hover .d-icon,
+html.dcs-website-mustacchio .d-header-icons .icon:focus .d-icon {
+  color: #252525;
+}
+
+/***** Discuss the web *****/
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+html:not(.dcs-website-discuss_the_web) .headerLink.discuss_the_web {
+  display: none;
+}
+
+html.dcs-website-discuss_the_web .headerLink a {
+  color: #305070;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
