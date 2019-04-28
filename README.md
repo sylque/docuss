@@ -16,7 +16,9 @@ Benefits :
 > </a>
 >
 > [Mustacchio](http://www.docuss.org) is a fake website demonstrating most
-> Docuss features.
+> Docuss features. The original website (i.e. before its integration with
+> Discourse) is hosted
+> [here](https://sylque.github.io/dcs-client/demos/mustacchio/).
 
 ## Other demos
 

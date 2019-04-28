@@ -3,18 +3,18 @@
 *******************************************************************************/
 
 /*
-Theme Settings - Custom header links:
+Theme Settings - Custom header links 2:
 ------------------------------------
  
-Home, Back to the home page, /, vdo.mustacchio, self, keep
+Home, Back to the home page, /, vdo, self, keep, true, mustacchio
  
-Mission, Mission, /docuss/missio, vdo.mustacchio, self, keep
+Mission, Mission, /docuss/missio, vdo, self, keep, true, mustacchio
  
-About Me, About me, /docuss/aboutm, vdo.mustacchio, self, keep
+About Me, About Me, /docuss/aboutm, vdo, self, keep, true, mustacchio
  
-Last Event, Last Event, /docuss/lastev, vdo.mustacchio, self, keep
+Last Event, Last Event, /docuss/lastev, vdo, self, keep, true, mustacchio
  
-White Paper, White paper, /docuss/whitep, vdo.mustacchio, self, keep
+White Paper, White paper, /docuss/whitep, vdo, self, keep, true, mustacchio
  
 Forum, Go to the discussion forum, /latest, vdm, self, keep
 */
