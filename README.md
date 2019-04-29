@@ -45,13 +45,24 @@ client library into pages. This proxy is not available yet._
 Docuss is in prototype phase. Please report ideas and issues in the above
 `Issues` tab.
 
-## Architecture
+## How to use it
 
-Docuss is composed of a
-[Discourse plugin](https://github.com/sylque/dcs-discourse-plugin2) you add to
-your Discourse instance and
-[client libraries](https://github.com/sylque/dcs-client) you add to your web
-pages.
+You will need:
+
+- A server running a [Discourse](https://www.discourse.org/) instance (see the
+  installation manual
+  [here](https://github.com/discourse/discourse/blob/master/docs/INSTALL.md)).
+- A server hosting your website or web app.
+
+Docuss installation:
+
+1. Add a [Docuss client librarie](https://github.com/sylque/dcs-client) to your
+   website.
+2. Create a
+   [JSON description file](https://github.com/sylque/dcs-website-schema) and
+   host it alongside your website.
+3. Install the [Docuss plugin](https://github.com/sylque/dcs-discourse-plugin2).
+   in your Discourse instance and connect it to your JSON description file.
 
 ## License
 

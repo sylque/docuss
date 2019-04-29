@@ -1,10 +1,24 @@
-/*******************************************************************************
-	Configuration for the "Custom Header Links" Discourse component
-*******************************************************************************/
-
 /*
-Theme Settings - Custom header links 2:
-------------------------------------
+
+Discourse settings - "docuss website json file"
+-----------------------------------------------
+
+Prod:
+
+https://sylque.github.io/dcs-client/demos/mustacchio/dcs-website.json
+https://sylque.github.io/dcs-client/demos/open-stack/dcs-website.json
+http://dtw.docuss.org/dcs-website.json
+
+Dev:
+
+http://localhost:8080/demos/mustacchio/dcs-website.json
+http://localhost:8080/demos/open-stack/dcs-website.json
+http://localhost:3000/dcs-website.json
+
+
+
+Theme Settings - Custom header links 2
+--------------------------------------
  
 Home, Back to the home page, /, vdo, self, keep, true, mustacchio
  
@@ -17,27 +31,11 @@ Last Event, Last Event, /docuss/lastev, vdo, self, keep, true, mustacchio
 White Paper, White paper, /docuss/whitep, vdo, self, keep, true, mustacchio
  
 Forum, Go to the discussion forum, /latest, vdm, self, keep
+
+
+Demo CSS
+--------
 */
-
-/*******************************************************************************
-	Discourse settings
-*******************************************************************************/
-
-/*
-
-Prod:
-
-https://sylque.github.io/dcs-client/demos/mustacchio/dcs-website.json|https://sylque.github.io/dcs-client/demos/open-stack/dcs-website.json|http://dtw.docuss.org/dcs-website.json
-
-Dev:
-
-http://localhost:8080/demos/mustacchio/dcs-website.json|http://localhost:8080/demos/open-stack/dcs-website.json|http://localhost:3000/dcs-website.json
-
-*/
-
-/*******************************************************************************
-	Demo CSS
-*******************************************************************************/
 
 /***** Mustacchio *****/
 
@@ -59,7 +57,7 @@ html.dcs-website-mustacchio .d-header-icons .icon:focus .d-icon {
   color: #252525;
 }
 
-/***** Discuss the web *****/
+/***** Discuss The Web *****/
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
