@@ -61,8 +61,8 @@ Docuss installation:
 2. Create a
    [JSON description file](https://github.com/sylque/dcs-website-schema) and
    host it alongside your website.
-3. Install the [Docuss plugin](https://github.com/sylque/dcs-discourse-plugin2).
-   in your Discourse instance and connect it to your JSON description file.
+3. Install the [Docuss plugin](https://github.com/sylque/dcs-discourse-plugin2)
+   in your Discourse instance and set it up with your JSON description file.
 
 ## License
 
