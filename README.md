@@ -19,12 +19,12 @@ Docuss is a comment/discussion/collaboration system for your website or web app.
 ## How It Works
 
 Docuss allows to integrate your website (or web app) with [Discourse](https://www.discourse.org/), the popular open-source discussion platform. 
+
 Docuss is composed of a plugin running in your Discourse forum and a JavaScript library running in your web pages.
 
 ## Project Status
 
-Docuss is in prototype phase. Please report ideas and issues in the above
-`Issues` tab.
+Docuss is in prototype phase. Please report any idea or issue in the `Issues` tab of the [Github repository](https://github.com/sylque/docuss).
 
 # How To Use It
 
