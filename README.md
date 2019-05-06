@@ -3,9 +3,9 @@
 Docuss is a comment/discussion/collaboration system for your website or web app.
 
 ## Features
-- Allows to add comments **or full discussion topics** to web pages.
-- Allows to create **menus or buttons with attached comments/discussions**.
-- You can host it yourself or it can be hosted for you.
+- Add comments **or full discussion topics** to your web pages.
+- Create **menus or buttons with attached comments/discussions**.
+- Host it yourself or have it hosted for you.
 
 ## Demos
 
@@ -18,13 +18,11 @@ Docuss is a comment/discussion/collaboration system for your website or web app.
 
 ## How It Works
 
-Docuss allows to integrate your website (or web app) with [Discourse](https://www.discourse.org/), the popular open-source discussion platform. 
-
-Docuss is composed of a plugin running in your Discourse forum and a JavaScript library running in your web pages.
+Docuss allows to integrate your website (or web app) with [Discourse](https://www.discourse.org/), the popular open-source discussion platform. Docuss is composed of a plugin running in your Discourse forum and a JavaScript library running in your web pages.
 
 ## Project Status
 
-Docuss is in prototype phase. Please report any idea or issue in the `Issues` tab of the [Github repository](https://github.com/sylque/docuss).
+Docuss is in prototype phase. Please report any idea or issue in the above `Issues` tab.
 
 # How To Use It
 
