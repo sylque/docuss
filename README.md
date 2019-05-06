@@ -3,18 +3,18 @@
 Docuss is a comment/discussion/collaboration system for your website or web app.
 
 ## Features
-- Add comments **or full discussion topics** to your web pages.
-- Create **menus or buttons with attached comments/discussions**.
-- Host it yourself or have it hosted for you.
+- Add comments **or full discussion topics** to your web pages
+- Create **menus or buttons with attached comments/discussions**
+- Host it yourself or have it hosted for you
 
 ## Demos
 
-- **[Mustacchio](http://www.docuss.org)**, a fake website demonstrating most Docuss features.
+- **[Mustacchio](http://www.docuss.org)**, a fake website demonstrating most Docuss features
 
 <p align="center"><img src="mustacchio.png"></p>
 
-- [OpenStack](http://www.docuss.org/docuss/openst), a single page from a live\* website, with discussions added to each heading.
-- [Discuss The Web](http://www.docuss.org/docuss/d_home), a sample Meteor+React web app.
+- [OpenStack](http://www.docuss.org/docuss/openst), a single page from a live\* website, with discussions added to each heading
+- [Discuss The Web](http://www.docuss.org/docuss/d_home), a sample Meteor+React web app
 
 ## How It Works
 
