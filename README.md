@@ -14,7 +14,7 @@ Docuss is a comment/discussion/collaboration system for your website or web app.
   Docuss features
 
 <p align="center"><a href="http://www.docuss.org">
-  <img src="mustacchio.png" target="_blank">
+  <img src="mustacchio.png">
 </a></p>
 
 - [OpenStack](http://www.docuss.org/docuss/openst), a single page from a live\*
@@ -69,8 +69,7 @@ Docuss installation:
 
 # License
 
-Docuss components are released under the
-[Fair Source 30 license](https://github.com/sylque/docuss/blob/master/LICENSE)
+Docuss components are released under the [Fair Source 30 license](LICENSE)
 (additional information [here](https://fair.io/)).
 
 Notice that, at the moment, dcs-discourse-plugin2 is released with minified
