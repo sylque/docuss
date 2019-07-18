@@ -69,7 +69,7 @@ Docuss installation:
 
 # License
 
-All Docuss components are released under the [MIT](LICENSE).
+All Docuss components are released under the [MIT](LICENSE) license.
 
 Notice that, at the moment, dcs-discourse-plugin2 is released with minified
 source code only.
