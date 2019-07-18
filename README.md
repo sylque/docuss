@@ -69,8 +69,7 @@ Docuss installation:
 
 # License
 
-Docuss components are released under the [Fair Source 30 license](LICENSE)
-(additional information [here](https://fair.io/)).
+All Docuss components are released under the [MIT](LICENSE).
 
 Notice that, at the moment, dcs-discourse-plugin2 is released with minified
 source code only.
