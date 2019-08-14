@@ -6,20 +6,22 @@ Docuss is a comment/discussion/collaboration system for your website or web app.
 
 - Add comments **or full discussion topics** to your web pages
 - Create **menus or buttons with attached comments/discussions**
-- Host it yourself or have it hosted for you
+- Supports Wordpress out of the box
 
 ## Demos
 
-- **[Mustacchio](http://www.docuss.org)**, a fake website demonstrating most
+- **[Mustacchio](http://www.docuss.org)**: a fake website demonstrating most
   Docuss features
 
 <p align="center"><a href="http://www.docuss.org">
   <img src="mustacchio.png">
 </a></p>
 
-- [OpenStack](http://www.docuss.org/docuss/openst), a single page from a live\*
+- [WorDPress](http://www.docuss.org/docuss/wp): a fake Wordpress blog, with
+  comments added to Post headings and discussions added to Pages.
+- [OpenStack](http://www.docuss.org/docuss/openst): a single page from a live\*
   website, with discussions added to each heading
-- [Discuss The Web](http://www.docuss.org/docuss/d_home), a sample Meteor+React
+- [Discuss The Web](http://www.docuss.org/docuss/d_home): a sample Meteor+React
   web app
 
 ## How It Works
@@ -60,7 +62,9 @@ You will need:
 Docuss installation:
 
 1. Add a [Docuss client library](https://github.com/sylque/dcs-client) to your
-   website pages.
+   website pages (if your website is a Wordpress blog, this can be done
+   automatically for you by the
+   [dcs-wordpress-plugin](https://github.com/sylque/dcs-wordpress-plugin)).
 2. Create a
    [JSON description file](https://github.com/sylque/dcs-website-schema) and
    host it alongside your website.
