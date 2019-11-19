@@ -43,12 +43,12 @@ Docuss is in prototype phase. Please report any idea or issue in the above
 1. Set up your [Discourse](https://www.discourse.org/) instance (see the
    installation manual
    [here](https://github.com/discourse/discourse/blob/master/docs/INSTALL.md)).
-2. Install the [Docuss plugin](https://github.com/sylque/dcs-discourse-plugin2)
+2. Install the [Docuss plugin](https://github.com/sylque/dcs-discourse-plugin)
    in your Discourse instance, and set it up with this JSON description file:
    `https://sylque.github.io/dcs-client/demos/mustacchio/dcs-website.json`
 3. You should see the _Mustacchio_ demo running smoothly within your Discourse
    instance (with the exception of the menu bar, as explained
-   [here](https://github.com/sylque/dcs-discourse-plugin2#website-navigation))
+   [here](https://github.com/sylque/dcs-discourse-plugin#website-navigation))
 
 ## "I'm convinced, I want to integrate my website"
 
@@ -68,14 +68,14 @@ Docuss installation:
 2. Create a
    [JSON description file](https://github.com/sylque/dcs-website-schema) and
    host it alongside your website.
-3. Install the [Docuss plugin](https://github.com/sylque/dcs-discourse-plugin2)
+3. Install the [Docuss plugin](https://github.com/sylque/dcs-discourse-plugin)
    in your Discourse instance and set it up with your JSON description file.
 
 # License
 
 All Docuss components are released under the [MIT](LICENSE) license.
 
-Notice that, at the moment, dcs-discourse-plugin2 is released with minified
+Notice that, at the moment, dcs-discourse-plugin is released with minified
 source code only.
 
 <br /><br /><br /> ---<br /> \* _Demos targeting live websites use a specific
