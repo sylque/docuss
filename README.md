@@ -1,6 +1,6 @@
 # Docuss
 
-Docuss is a comment/discussion/collaboration system for your website or web app.
+Docuss is a comment/discussion/collaboration system for websites and web apps.
 
 Notice that there is now a simplified version of this solution called [DiscPage](https://github.com/sylque/discpage), for webmasters who want to create their website directly in Discourse.
 
