@@ -10,7 +10,7 @@ A comment/discussion/collaboration system for websites and web apps.
 - Create **menus or buttons with attached comments/discussions**
 - Supports Wordpress out of the box
 
-## Demos
+## Live Demo
 
 - **[Mustacchio](http://www.docuss.org)**: a fake website demonstrating most
   Docuss features
@@ -19,12 +19,11 @@ A comment/discussion/collaboration system for websites and web apps.
   <img src="mustacchio.png">
 </a></p>
 
-- [WorDPress](http://www.docuss.org/docuss/wp): a fake Wordpress blog, with
-  comments added to Post headings and discussions added to Pages.
-- [OpenStack](http://www.docuss.org/docuss/openst): a single page from a live\*
-  website, with discussions added to each heading
-- [Discuss The Web](http://www.docuss.org/docuss/d_home): a sample Meteor+React
-  web app
+## Other Demos
+
+- ~~**WorDPress**: a fake Wordpress blog, with comments added to Post headings and discussions added to Pages.~~
+- ~~**OpenStack**: a single page from a live\* website, with discussions added to each heading~~
+- ~~**Discuss The Web**: a sample Meteor+React web app.~~
 
 ## How It Works
 
