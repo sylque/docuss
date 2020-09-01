@@ -2,7 +2,7 @@
 
 A comment/discussion/collaboration system for websites and web apps.
 
-**This project is not actively maintained.** But there's a simplified version called [DiscPage](https://github.com/sylque/discpage).
+**This project is not active anymore.** Fixes are provided to existing users, but I stopped working on new features. You might want to check  [DiscPage](https://github.com/sylque/discpage), which is somehow a simplified version.
 
 ## Features
 
