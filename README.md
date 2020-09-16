@@ -43,7 +43,8 @@ Docuss is in prototype phase. Please report any idea or issue in the above
 
 1. Set up your [Discourse](https://www.discourse.org/) instance (see the
    installation manual
-   [here](https://github.com/discourse/discourse/blob/master/docs/INSTALL.md)).
+   [here](https://github.com/discourse/discourse/blob/master/docs/INSTALL.md))
+   with SSL (see SSL setup [here](https://meta.discourse.org/t/how-to-set-up-ssl-in-discourse/56577)).
 2. Install the [Docuss plugin](https://github.com/sylque/dcs-discourse-plugin)
    in your Discourse instance, and set it up with this JSON description file:
    `https://sylque.github.io/dcs-client/demos/mustacchio/dcs-website.json`
