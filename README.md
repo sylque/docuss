@@ -2,8 +2,8 @@
 
 A comment/discussion/collaboration system for websites and web apps.
 
-**This project is not active anymore.** Among other issues, it's not up-to-date with latest versions of Discourse and the source code is a mess. You might want to check  [DiscPage](https://github.com/sylque/discpage) instead, which is somehow a simplified version of Docuss.
-
+**This project is not active anymore**. You might want to check [DiscPage](https://github.com/sylque/discpage), which shares a lot of features with Docuss.
+ 
 ## Features
 
 - Add comments **or full discussion topics** to your web pages
