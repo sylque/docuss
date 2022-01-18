@@ -2,7 +2,8 @@
 
 A comment/discussion/collaboration system for websites and web apps.
 
-**This project is not active anymore**. You might want to check [DiscPage](https://github.com/sylque/discpage), which shares a lot of features with Docuss.
+> ### **This project is not active anymore**. 
+> You might want to check [DiscPage](https://github.com/sylque/discpage), which shares a lot of features with Docuss.
  
 ## Features
 
