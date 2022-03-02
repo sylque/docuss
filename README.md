@@ -78,8 +78,7 @@ Docuss installation:
 
 All Docuss components are released under the [MIT](LICENSE) license.
 
-Notice that, at the moment, dcs-discourse-plugin is released with minified
-source code only.
+
 
 <br /><br /><br /> ---<br /> \* _Demos targeting live websites use a specific
 proxy server to inject a Docuss client library into pages. This proxy is not
