@@ -13,8 +13,7 @@ A comment/discussion/collaboration system for websites and web apps.
 
 ## Live Demo
 
-- **[Mustacchio](http://www.docuss.org)**: a fake website demonstrating most
-  Docuss features
+- ~~**Mustacchio**: a fake website demonstrating most Docuss features~~
 
 <p align="center"><a href="http://www.docuss.org">
   <img src="mustacchio.png">
