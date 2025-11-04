@@ -2,8 +2,11 @@
 
 A comment/discussion/collaboration system for websites and web apps.
 
-> ### **This project is not active anymore**. 
-> You might want to check [DiscPage](https://github.com/sylque/discpage), which shares a lot of features with Docuss.
+> ## ⚠️ Project Deprecated
+>
+> Docuss is no longer maintained.  
+> For an updated version compatible with the latest Discourse, check out this fork:  
+> 👉 https://github.com/focallocal/dcs-discourse-plugin
  
 ## Features
 
